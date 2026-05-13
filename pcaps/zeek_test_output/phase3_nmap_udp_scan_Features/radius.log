@@ -1,0 +1,18 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	radius
+#open	2026-04-08-03-47-49
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	username	mac	framed_addr	tunnel_client	connect_info	reply_msg	result	ttl
+#types	time	string	addr	port	addr	port	string	string	addr	string	string	string	string	interval
+1762942742.823012	CyyKIN27iFvP34umhb	192.168.12.150	44230	192.168.12.233	1812	-	-	-	-	-	-	unknown	-
+1762942736.660523	C7edxz3TPSDkrh0ggg	192.168.12.150	44224	192.168.12.233	1812	-	-	-	-	-	-	unknown	-
+1762942736.761639	Ckg41M3qZNKSftpeDe	192.168.12.150	44226	192.168.12.233	1812	-	-	-	-	-	-	unknown	-
+1762942729.862290	CvfHof3AqCEh4sinPc	192.168.12.150	44216	192.168.12.233	1812	-	-	-	-	-	-	unknown	-
+1762942744.225060	C86DVM2EakJjxIaTOb	192.168.12.150	44232	192.168.12.233	1812	-	-	-	-	-	-	unknown	-
+1762942742.422202	CDLPM23UyI0pcgoRD8	192.168.12.150	44228	192.168.12.233	1812	-	-	-	-	-	-	unknown	-
+1762942736.455751	C8B56626djiQjidKMa	192.168.12.150	44220	192.168.12.233	1812	-	-	-	-	-	-	unknown	-
+1762942736.559981	CNtsGelOmCY6n1VNi	192.168.12.150	44222	192.168.12.233	1812	-	-	-	-	-	-	unknown	-
+1762942730.961325	Ca32rZAPpm3G3EDG2	192.168.12.150	44218	192.168.12.233	1812	-	-	-	-	-	-	unknown	-
+#close	2026-04-08-03-47-49

@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	packet_filter
+#open	2026-05-06-06-05-15
+#fields	ts	node	filter	init	success	failure_reason
+#types	time	string	string	bool	bool	string
+1778047515.831700	zeek	ip or not ip	T	T	-
+#close	2026-05-06-06-05-31

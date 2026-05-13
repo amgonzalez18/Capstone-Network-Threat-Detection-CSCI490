@@ -1,0 +1,21 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ssh
+#open	2026-04-16-05-20-32
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	auth_success	auth_attempts	direction	client	server	cipher_alg	mac_alg	compression_alg	kex_alg	host_key_alg	host_key_fingerprint
+#types	time	string	addr	port	addr	port	count	bool	count	enum	string	string	string	string	string	string	string	string
+1762984802.110560	CiiWXms8WnPCpWe55	192.168.12.150	56454	192.168.12.233	22	2	-	0	-	SSH-2.0-libssh_0.11.3	SSH-2.0-OpenSSH_10.0p2 Debian-7	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	SHA256:aQ1VLa3Mnp6eZzmsyhMIHxXah/omju3c
+1762984802.415164	Cu9T2g3mWf6wDNbaZ4	192.168.12.150	56466	192.168.12.233	22	2	F	5	-	SSH-2.0-libssh_0.11.3	SSH-2.0-OpenSSH_10.0p2 Debian-7	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	SHA256:aQ1VLa3Mnp6eZzmsyhMIHxXah/omju3c
+1762984816.873465	CqDrpGFubC3Wn2lde	192.168.12.150	57178	192.168.12.233	22	2	F	5	-	SSH-2.0-libssh_0.11.3	SSH-2.0-OpenSSH_10.0p2 Debian-7	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	SHA256:aQ1VLa3Mnp6eZzmsyhMIHxXah/omju3c
+1762984837.482735	CLUKmvBjhFfkDDQtf	192.168.12.150	48778	192.168.12.233	22	2	F	5	-	SSH-2.0-libssh_0.11.3	SSH-2.0-OpenSSH_10.0p2 Debian-7	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	SHA256:aQ1VLa3Mnp6eZzmsyhMIHxXah/omju3c
+1762984858.102571	CsYaD62NOtxVza7kj	192.168.12.150	38822	192.168.12.233	22	2	F	5	-	SSH-2.0-libssh_0.11.3	SSH-2.0-OpenSSH_10.0p2 Debian-7	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	SHA256:aQ1VLa3Mnp6eZzmsyhMIHxXah/omju3c
+1762984872.569766	CtXS094IUk1HjLaKd2	192.168.12.150	47128	192.168.12.233	22	2	F	5	-	SSH-2.0-libssh_0.11.3	SSH-2.0-OpenSSH_10.0p2 Debian-7	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	SHA256:aQ1VLa3Mnp6eZzmsyhMIHxXah/omju3c
+1762984891.140820	CAnYcXJ1iiRFfSmqk	192.168.12.150	42822	192.168.12.233	22	2	F	5	-	SSH-2.0-libssh_0.11.3	SSH-2.0-OpenSSH_10.0p2 Debian-7	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	SHA256:aQ1VLa3Mnp6eZzmsyhMIHxXah/omju3c
+1762984907.662445	CC5N3A4hbGjT5v4Qca	192.168.12.150	35966	192.168.12.233	22	2	F	5	-	SSH-2.0-libssh_0.11.3	SSH-2.0-OpenSSH_10.0p2 Debian-7	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	SHA256:aQ1VLa3Mnp6eZzmsyhMIHxXah/omju3c
+1762984924.181364	CN7zY8WyEVucssTkg	192.168.12.150	49854	192.168.12.233	22	2	F	5	-	SSH-2.0-libssh_0.11.3	SSH-2.0-OpenSSH_10.0p2 Debian-7	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	SHA256:aQ1VLa3Mnp6eZzmsyhMIHxXah/omju3c
+1762984938.639495	C6aQbj4Vj5OkUy2Keb	192.168.12.150	51852	192.168.12.233	22	2	F	5	-	SSH-2.0-libssh_0.11.3	SSH-2.0-OpenSSH_10.0p2 Debian-7	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	SHA256:aQ1VLa3Mnp6eZzmsyhMIHxXah/omju3c
+1762984959.248982	CSsLBh1Q1ul2hTMY92	192.168.12.150	36338	192.168.12.233	22	2	F	5	-	SSH-2.0-libssh_0.11.3	SSH-2.0-OpenSSH_10.0p2 Debian-7	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	SHA256:aQ1VLa3Mnp6eZzmsyhMIHxXah/omju3c
+1762984979.860043	CHbX5S2eEZ8A0PPVA5	192.168.12.150	52248	192.168.12.233	22	2	F	4	-	SSH-2.0-libssh_0.11.3	SSH-2.0-OpenSSH_10.0p2 Debian-7	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	SHA256:aQ1VLa3Mnp6eZzmsyhMIHxXah/omju3c
+#close	2026-04-16-05-20-32

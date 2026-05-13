@@ -1,0 +1,16 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2026-04-24-02-55-13
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer	source
+#types	time	string	addr	port	addr	port	string	string	bool	string	string
+1762987686.821039	C5RwkG1NgH4Q3JbVSb	192.168.12.150	55960	192.168.12.233	22	bad_TCP_checksum	-	F	zeek	TCP
+1762987697.116442	CR2WMc48wMsf02FqW7	192.168.12.150	46128	192.168.12.233	22	ssh_unknown_kex_algorithm	mlkem768x25519-sha256	F	zeek	SSH
+1762987779.541961	C0N3wx3z6e1ovI9jY4	192.168.12.150	38374	192.168.12.233	22	ssh_unknown_kex_algorithm	mlkem768x25519-sha256	F	zeek	SSH
+1762987800.865071	CiDngD1PaQ9Gp4rdLf	192.168.12.150	54078	192.168.12.233	22	ssh_unknown_kex_algorithm	mlkem768x25519-sha256	F	zeek	SSH
+1762987823.321603	CYgJeu4W4IURWOVoM7	192.168.12.150	41780	192.168.12.233	22	ssh_unknown_kex_algorithm	mlkem768x25519-sha256	F	zeek	SSH
+1762987858.428815	C3nHa94buvH5y0Wwte	192.168.12.150	58292	192.168.12.233	22	ssh_unknown_kex_algorithm	mlkem768x25519-sha256	F	zeek	SSH
+1762987921.782230	Cp3uhw2EiawU8Q4sre	192.168.12.150	56792	192.168.12.233	22	ssh_unknown_kex_algorithm	mlkem768x25519-sha256	F	zeek	SSH
+#close	2026-04-24-02-55-13

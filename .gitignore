@@ -1,0 +1,11 @@
+firebase_key.json
+__pycache__/
+*.pyc
+
+# Ignore raw packet captures because they are large
+*.pcap
+
+# Ignore Flutter build/cache folders
+soc_dashboard_flutter/build/
+soc_dashboard_flutter/.dart_tool/
+soc_dashboard_flutter/.idea/

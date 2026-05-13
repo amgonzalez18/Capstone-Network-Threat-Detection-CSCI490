@@ -1,0 +1,17 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	dns
+#open	2026-04-08-03-47-49
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	trans_id	rtt	query	qclass	qclass_name	qtype	qtype_name	rcode	rcode_name	AA	TC	RD	RA	Z	answers	TTLs	rejected	opcode	opcode_name
+#types	time	string	addr	port	addr	port	enum	count	interval	string	count	string	count	string	count	string	bool	bool	bool	bool	count	vector[string]	vector[interval]	bool	count	string
+1762942729.862085	Cr7oFxTRlpKo4dAnl	192.168.12.150	44216	192.168.12.233	5353	udp	0	0.000159	_services._dns-sd._udp.local	1	C_INTERNET	12	PTR	0	NOERROR	T	F	F	F	0	_workstation._tcp.local	10.000000	F	0	query
+1762942729.862085	Cr7oFxTRlpKo4dAnl	192.168.12.150	44216	192.168.12.233	5353	udp	0	0.000160	_services._dns-sd._udp.local	32769	qclass-32769	12	PTR	0	NOERROR	T	F	F	F	0	_workstation._tcp.local	10.000000	F	0	query
+1762942729.862085	Cr7oFxTRlpKo4dAnl	192.168.12.150	44216	192.168.12.233	5353	udp	58112	-	(empty)	0	qclass-0	0	query-0	-	-	F	F	F	F	7	-	-	F	0	query
+1762942752.381514	CReepA1DMhWULDBGNi	192.168.12.150	44216	192.168.12.233	137	udp	33008	-	*	1	C_INTERNET	33	NBSTAT	-	-	F	F	F	F	1	-	-	F	0	netbios-query
+1762942752.381514	CReepA1DMhWULDBGNi	192.168.12.150	44216	192.168.12.233	137	udp	401	-	*	1	C_INTERNET	33	NBSTAT	-	-	F	F	F	F	0	-	-	F	0	netbios-query
+1762942752.381661	CReepA1DMhWULDBGNi	192.168.12.150	44216	192.168.12.233	137	udp	401	-	*	1	C_INTERNET	33	NBSTAT	-	-	F	F	F	F	1	-	-	F	0	netbios-query
+1762942757.991482	COC7Tx2Yg0HjTMnzy6	192.168.12.150	44216	192.168.12.233	53	udp	6	-	version.bind	3	C_CHAOS	16	TXT	-	-	F	F	T	F	0	-	-	F	0	query
+1762942757.991872	COC7Tx2Yg0HjTMnzy6	192.168.12.150	44216	192.168.12.233	53	udp	0	-	_services._dns-sd._udp.local	1	C_INTERNET	12	PTR	-	-	F	F	F	F	0	-	-	F	0	query
+#close	2026-04-08-03-47-49

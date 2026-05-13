@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ssh
+#open	2026-04-08-03-30-04
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	auth_success	auth_attempts	direction	client	server	cipher_alg	mac_alg	compression_alg	kex_alg	host_key_alg	host_key_fingerprint
+#types	time	string	addr	port	addr	port	count	bool	count	enum	string	string	string	string	string	string	string	string
+1762943836.176305	C8RTkkhYVV9piTagj	192.168.12.150	56074	192.168.12.233	22	-	-	0	-	-	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+#close	2026-04-08-03-30-04
