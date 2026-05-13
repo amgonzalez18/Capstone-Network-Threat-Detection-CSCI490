@@ -1,0 +1,2 @@
+ts,uid,src_ip,src_port,dst_ip,dst_port,proto,service,duration,orig_bytes,resp_bytes,conn_state,orig_pkts,resp_pkts
+1763003592.541404,C0HlcD39E5W6gnem5g,192.168.12.150,8,192.168.12.233,0,icmp,-,99.155868,5600,5600,OTH,100,100

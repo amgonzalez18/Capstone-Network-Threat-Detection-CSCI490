@@ -1,0 +1,29 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ssh
+#open	2026-04-16-03-49-54
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	auth_success	auth_attempts	direction	client	server	cipher_alg	mac_alg	compression_alg	kex_alg	host_key_alg	host_key_fingerprint
+#types	time	string	addr	port	addr	port	count	bool	count	enum	string	string	string	string	string	string	string	string
+1762979211.833845	CJXv0E1hzR6vFrGGm	192.168.12.150	35462	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979213.299751	CK2Y144ebsJ02jRWA4	192.168.12.150	35472	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979214.513645	CyJ9ve4N7UE9tUs7fd	192.168.12.150	35480	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979215.748773	CJg4O52bZsUJMjYwp9	192.168.12.150	35484	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979216.964043	CDgrnZhrHueVC1DMf	192.168.12.150	35498	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979218.202383	CLHGgD3RBYU93akfog	192.168.12.150	35512	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979219.447647	CghFyP4wBKij1fhH7	192.168.12.150	59472	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979220.780500	CuUsXb1UR3RYBX3pUf	192.168.12.150	59476	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979222.009245	CoWFgf22F4HUOd4oKd	192.168.12.150	59480	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979223.330217	CvQC2E3AV2ONKh8qk2	192.168.12.150	59494	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979224.544735	CWSB2e4ZNrfkJw9YHj	192.168.12.150	59508	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979225.776215	CJFtDB7yfF2hNwpJj	192.168.12.150	59512	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979227.018767	C7ag243QjtA9pLjnGc	192.168.12.150	59524	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979228.241384	CAdt8y2vdxtEQBQKn5	192.168.12.150	59534	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979229.467814	COefkW35JKUcPF4T2j	192.168.12.150	48846	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979234.419021	C0sOHY1JweSQLbpkda	192.168.12.150	48882	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979233.158509	CPkH4K25vcNNX595y6	192.168.12.150	48874	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979235.663564	CbMXyz18qhUuGw0TS5	192.168.12.150	48888	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979231.922341	CHZ4mb3dTbqXMJQtn2	192.168.12.150	48864	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+1762979230.696615	Cz6Tmr2tEiiYeQulq7	192.168.12.150	48858	192.168.12.233	22	2	-	0	-	SSH-2.0-OpenSSH_10.2p1 Debian-5	SSH-2.0-OpenSSH_10.0p2 Debian-7	-	-	-	-	-	-
+#close	2026-04-16-03-49-54

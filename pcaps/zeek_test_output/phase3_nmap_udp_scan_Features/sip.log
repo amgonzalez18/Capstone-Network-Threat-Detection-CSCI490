@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	sip
+#open	2026-04-08-03-47-49
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	uri	date	request_from	request_to	response_from	response_to	reply_to	call_id	seq	subject	request_path	response_path	user_agent	status_code	status_msg	warning	request_body_len	response_body_len	content_type
+#types	time	string	addr	port	addr	port	count	string	string	string	string	string	string	string	string	string	string	string	vector[string]	vector[string]	string	count	string	string	count	count	string
+1762942729.866170	CgkQd03dcXfUR54sUb	192.168.12.150	44216	192.168.12.233	5060	0	OPTIONS	sip:nm	-	<sip:nm@nm>	<sip:nm2@nm2>	-	-	-	50000	42 OPTIONS	-	SIP/2.0/UDP nm	(empty)	-	-	-	-	0	-	-
+1762942730.958296	CxVxe219kAPdkUjuyk	192.168.12.150	44218	192.168.12.233	5060	0	OPTIONS	sip:nm	-	<sip:nm@nm>	<sip:nm2@nm2>	-	-	-	50000	42 OPTIONS	-	SIP/2.0/UDP nm	(empty)	-	-	-	-	0	-	-
+#close	2026-04-08-03-47-49
