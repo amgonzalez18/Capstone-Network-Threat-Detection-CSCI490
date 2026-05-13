@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864276370468",
+    "project_id": "network-threat-detection-soc",
+    "storage_bucket": "network-threat-detection-soc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864276370468:android:5cf90b731cd6aa6b6334b1",
+        "android_client_info": {
+          "package_name": "com.example.network_threat_detection_soc_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJo4mYt6AN-42n0caAwUd1p5pFp57iK2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
